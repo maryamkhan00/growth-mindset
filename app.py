@@ -8,7 +8,7 @@ st.write("This app is designed to help you develop a growth mindset. A growth mi
 
 #quote section
 st.header("🌟 Today's Inspiration Dose")
-st.write("'Believe you can and you're halfway there. -Theodore Roosevelt'")
+st.write("'Believe you can and you're halfway there.' -Theodore Roosevelt")
 
 #getting challanges from user
 st.header("🧩 What's your challange today?")
